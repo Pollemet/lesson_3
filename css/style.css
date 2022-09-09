@@ -1,0 +1,153 @@
+a {
+	color: rgb(175, 175, 236);
+}
+
+/* ------------HEADER------------ */
+
+.header {}
+
+.header-title {}
+
+/* ------------MAIN------------ */
+
+.main {}
+
+.title {
+	color: rgb(82, 6, 49);
+}
+
+/* ------------CONTENTS------------ */
+
+.contents {}
+
+.contents-title {
+	color: rgb(34, 36, 36);
+}
+
+.contents-list {}
+
+.contents-list a {
+	color: rgb(20, 57, 57);
+}
+
+.content-item {}
+
+.contents-sub-list {}
+
+.contents-sub-item {
+	color: rgb(23, 202, 202);
+}
+
+.contents-sub-item a {
+	color: rgb(24, 188, 60);
+}
+
+/* ------------VALUTA------------ */
+
+.valuta {}
+
+.valuta-title {}
+
+.valuta-text {
+	color: rgb(140, 104, 104);
+}
+
+
+/* ------------HISTORY------------ */
+
+.history {}
+
+.history-title {}
+
+.history-text {
+	color: rgb(92, 83, 54);
+}
+
+.history-date {}
+
+.date-title {}
+
+.date-text {}
+
+
+/* ------------MINING------------ */
+
+.mining {}
+
+.mining-title {}
+
+.mining-text {}
+
+
+/* ------------SORT------------ */
+
+.sort {}
+
+.sort-title,
+.sort-text {
+
+	color: rgb(181, 76, 84);
+}
+
+.sort-list {
+	color: rgb(161, 20, 43);
+}
+
+.sort-item {}
+
+.sort-sub-title * {
+	color: yellow;
+}
+
+div.sort-sub-text {
+	color: greenyellow;
+}
+
+
+/* ------------EXPERTS------------ */
+
+.experts {}
+
+.experts-title.title {
+	color: yellowgreen;
+}
+
+.experts-expert .expert-title {
+	color: red;
+}
+
+.expert-title {}
+
+.expert-text {}
+
+
+/* ------------DISTRIBUTION------------ */
+
+.distribution {}
+
+.distribution-title {}
+
+.distribution-text > p {
+	color: rgb(17, 247, 220);
+}
+
+.distribution-text + p {
+	color: yellow;
+}
+
+/* ------------ASPECTS------------ */
+
+
+.aspects {}
+
+.aspects-title {}
+
+.aspects-text {}
+
+.aspects-text ~ p {
+	color: rgb(165, 31, 91);
+}
+
+/* ------------FOOTER------------ */
+
+.footer {}
